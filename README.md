@@ -1,4 +1,4 @@
-# Guess-the-number
+# Guess the   Number
 Just a game to kill the boredom
 
 3 Levels :
